@@ -1,4 +1,29 @@
-# Data-Visualization
+# Heart Disease Data Visualization
+
+This repository contains a data visualization performed on a Heart Disease dataset using Python.
+
+## Dataset
+The dataset used in this project contains medical attributes related to heart disease.
+
+File:
+- D3_Heart_Dataset.csv
+
+## Project Workflow
+The notebook performs the following steps:
+
+- Loading the dataset using Pandas
+- Data exploration and inspection
+- Data preprocessing
+- Visualizing patterns and relationships in the dataset
+- Creating different charts and graphs for analysis
+
+## Tools and Libraries Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+Matplotlib is a Python plotting library widely used to create graphs and charts for data visualization.
+
 ## About Dataset
 ### Dataset Name : Heart-Dataset
 Access from <b>Kaggle</b> by using the following link:
